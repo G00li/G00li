@@ -92,5 +92,5 @@ Se você chegou até aqui, bora trocar uma ideia! Estou sempre aberto a novos de
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=500&lines=Transformando+ideias+em+experi%C3%AAncias+interativas..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=500&lines=Transformando+ideias+em+experi%C3%AAncias" />
 </p>
